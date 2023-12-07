@@ -40,6 +40,4 @@ Puedes habilitar un dominio personalizado al que redireccionar desde la url asig
 
 Algunos ejemplos, además de subir una página web, puede ser subir una presentación como la que estoy mostrando hoy (que realmente es una página web con un JavaScript que hace la magia para cambiar de página y es un proyecto que se llama WebSlides) o un blog.
 
-Para hacer un blog puedes usar un generador estático de los que aparecen en https://www.staticgen.com/. En GitHub se utiliza por defecto Jekyll pero quería probar otro. No sabía bien cual usar hasta que vi un generador estático que se llamaba Hugo y decidí usar éste. ¿Por qué? ¿Rapidez? ¿Facilidad de uso?
 
-## Hugo
