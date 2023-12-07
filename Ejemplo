@@ -31,3 +31,13 @@ Para aquellos de vosotros que no sepan qué es GitHub Pages voy a explicar los s
 En la página oficial de GitHub Pages podéis encontrar información sobre cómo funciona. Yo os voy a explicar lo más importante, de nuevo a partir de películas hechas por Méliès.
 
 ## User site y Project Sites
+
+## Dominio personalizado
+
+Puedes habilitar un dominio personalizado al que redireccionar desde la url asignada de GitHub Pages. Tienes que seguir las instrucciones del proveedor del dominio y poner el dominio asignado en la pestaña de ajustes, en Dominio personalizado. Esto crea un fichero CNAME en la raíz de donde se habilita GitHub Pages. También se podría crear directamente el fichero.
+
+## Ejemplos de uso
+
+Algunos ejemplos, además de subir una página web, puede ser subir una presentación como la que estoy mostrando hoy (que realmente es una página web con un JavaScript que hace la magia para cambiar de página y es un proyecto que se llama WebSlides) o un blog.
+
+
